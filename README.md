@@ -1,5 +1,5 @@
 # here are some tutorials
 
-[Survival_analysis](/Survival_analysis)
+[Tutorial about Survival_analysis](/Survival_analysis)
 [Transformer_learnig](/Awesome-Transformer-learning/)
 
