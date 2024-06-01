@@ -11,6 +11,7 @@
 - [Transformer Architecture: The Positional Encoding](https://kazemnejad.com/blog/transformer_architecture_positional_encoding/#the-intuition)
 - [详解softmax函数以及相关求导过程](https://zhuanlan.zhihu.com/p/25723112)
 - [Transformer Networks: A mathematical explanation why scaling the dot products leads to more stable gradients](https://towardsdatascience.com/transformer-networks-a-mathematical-explanation-why-scaling-the-dot-products-leads-to-more-stable-414f87391500)
+- [Attention为什么要除以根号d](https://mp.weixin.qq.com/s/3o0NgpFPKS1RNICNuMuygg)
 ## 相关学习资料
 - [From Online Softmax to FlashAttention](https://courses.cs.washington.edu/courses/cse599m/23sp/notes/flashattn.pdf):关于flash attention 的博客
 # Transformer for Vision
